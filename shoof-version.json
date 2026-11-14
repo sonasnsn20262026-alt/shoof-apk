@@ -1,10 +1,10 @@
 {
- "versionCode": 90,
- "versionName": "2.78",
- "url": "https://raw.githubusercontent.com/sonasnsn20262026-alt/shoof-apk/main/shoof-2.78.apk",
- "mirror": "https://raw.githubusercontent.com/sonasnsn20262026-alt/shoof-apk/main/shoof-2.78.apk",
- "apk": "shoof-2.78.apk",
- "size": 479836,
- "sha256_16": "88a8b03636125a5f",
- "notes": "كتالوج مُعاد بناؤه من القنوات + رابط البث الجديد"
+ "versionCode": 91,
+ "versionName": "2.79",
+ "url": "https://raw.githubusercontent.com/sonasnsn20262026-alt/shoof-apk/main/shoof-2.79.apk",
+ "mirror": "https://raw.githubusercontent.com/sonasnsn20262026-alt/shoof-apk/main/shoof-2.79.apk",
+ "apk": "shoof-2.79.apk",
+ "size": 482600,
+ "sha256_16": "0310b1f77b3e17e3",
+ "notes": "إصلاح البث: التحويل إلى خادم Railway الإنتاجي بدل نفق Codespaces المؤقت"
 }

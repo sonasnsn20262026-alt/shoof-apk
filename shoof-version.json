@@ -1,10 +1,10 @@
 {
- "versionCode": 91,
- "versionName": "2.79",
- "url": "https://raw.githubusercontent.com/sonasnsn20262026-alt/shoof-apk/main/shoof-2.79.apk",
- "mirror": "https://raw.githubusercontent.com/sonasnsn20262026-alt/shoof-apk/main/shoof-2.79.apk",
- "apk": "shoof-2.79.apk",
- "size": 482600,
- "sha256_16": "0310b1f77b3e17e3",
- "notes": "إصلاح البث: التحويل إلى خادم Railway الإنتاجي بدل نفق Codespaces المؤقت"
+ "versionCode": 92,
+ "versionName": "2.80",
+ "url": "https://raw.githubusercontent.com/sonasnsn20262026-alt/shoof-apk/main/shoof-2.80.apk",
+ "mirror": "https://raw.githubusercontent.com/sonasnsn20262026-alt/shoof-apk/main/shoof-2.80.apk",
+ "apk": "shoof-2.80.apk",
+ "size": 482648,
+ "sha256_16": "c99274efe9585bd0",
+ "notes": "تحديث أثير: واجهة جديدة، شاشة عمل وحلقات محسّنة، مشغّل أوضح، وإصلاح PiP والتحديث."
 }

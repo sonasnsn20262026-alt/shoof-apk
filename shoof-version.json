@@ -1,10 +1,10 @@
 {
- "versionCode": 97,
- "versionName": "2.85",
- "url": "https://raw.githubusercontent.com/sonasnsn20262026-alt/shoof-apk/main/shoof-2.85.apk",
- "mirror": "https://raw.githubusercontent.com/sonasnsn20262026-alt/shoof-apk/main/shoof-2.85.apk",
- "apk": "shoof-2.85.apk",
- "size": 481722,
- "sha256_16": "c82b4b8c33b43a0e",
- "notes": "دخولية متحركة: شعاع ضوئي قطري متوهّج يمر على اسم شوف ببطء وأناقة، ثم انكماش واندماج في الزاوية بعد ظهور البوسترات · إعادة محاولة صامتة · شريط تحديث بمصادر بديلة."
+ "versionCode": 98,
+ "versionName": "2.86",
+ "url": "https://raw.githubusercontent.com/sonasnsn20262026-alt/shoof-apk/main/shoof-2.86.apk",
+ "mirror": "https://raw.githubusercontent.com/sonasnsn20262026-alt/shoof-apk/main/shoof-2.86.apk",
+ "apk": "shoof-2.86.apk",
+ "size": 481893,
+ "sha256_16": "3c3dcf3e4ed8613d",
+ "notes": "رفع إضاءة الشاشة تلقائيًا إلى الحد الأقصى أثناء تشغيل الفيديو داخل التطبيق، مع إعادتها عند المغادرة."
 }

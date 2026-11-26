@@ -1,10 +1,10 @@
 {
- "versionCode": 98,
- "versionName": "2.86",
- "url": "https://raw.githubusercontent.com/sonasnsn20262026-alt/shoof-apk/main/shoof-2.86.apk",
- "mirror": "https://raw.githubusercontent.com/sonasnsn20262026-alt/shoof-apk/main/shoof-2.86.apk",
- "apk": "shoof-2.86.apk",
- "size": 481893,
- "sha256_16": "3c3dcf3e4ed8613d",
- "notes": "رفع إضاءة الشاشة تلقائيًا إلى الحد الأقصى أثناء تشغيل الفيديو داخل التطبيق، مع إعادتها عند المغادرة."
+ "versionCode": 99,
+ "versionName": "2.87",
+ "url": "https://raw.githubusercontent.com/sonasnsn20262026-alt/shoof-apk/main/shoof-2.87.apk",
+ "mirror": "https://raw.githubusercontent.com/sonasnsn20262026-alt/shoof-apk/main/shoof-2.87.apk",
+ "apk": "shoof-2.87.apk",
+ "size": 486769,
+ "sha256_16": "2ec287ba5925b697",
+ "notes": "مراقبة تلقائية لتجميد الفيديو: إعادة فتح الحلقة من آخر موضع بعد 20 ثانية بلا تقدّم، وإعادة اتصال صامتة مرتين قبل رسالة الخطأ."
 }

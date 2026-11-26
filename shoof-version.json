@@ -1,10 +1,10 @@
 {
- "versionCode": 99,
- "versionName": "2.87",
- "url": "https://raw.githubusercontent.com/sonasnsn20262026-alt/shoof-apk/main/shoof-2.87.apk",
- "mirror": "https://raw.githubusercontent.com/sonasnsn20262026-alt/shoof-apk/main/shoof-2.87.apk",
- "apk": "shoof-2.87.apk",
+ "versionCode": 100,
+ "versionName": "2.88",
+ "url": "https://raw.githubusercontent.com/sonasnsn20262026-alt/shoof-apk/main/shoof-2.88.apk",
+ "mirror": "https://raw.githubusercontent.com/sonasnsn20262026-alt/shoof-apk/main/shoof-2.88.apk",
+ "apk": "shoof-2.88.apk",
  "size": 486769,
- "sha256_16": "2ec287ba5925b697",
- "notes": "مراقبة تلقائية لتجميد الفيديو: إعادة فتح الحلقة من آخر موضع بعد 20 ثانية بلا تقدّم، وإعادة اتصال صامتة مرتين قبل رسالة الخطأ."
+ "sha256_16": "f1f4cb29fe9593d1",
+ "notes": "تنزيل التحديث مباشرة داخل التطبيق بلا متصفح، مع إعادة محاولة التنزيل والتثبيت عند الضغط على الشريط."
 }
